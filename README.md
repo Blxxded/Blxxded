@@ -9,12 +9,13 @@ Still don't know the exact reason of why I became involved in programming but it
 # 🧠 | Skills
 
 - <img src="https://progress-bar.dev/100/?title=%F0%9F%93%A0%20|%20HTML%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/100/?title=%F0%9F%93%9F%20|%20BASH%2fBATCH%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/95/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20CSS%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/75/?title=%F0%9F%90%8D%20|%20PYTHON%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/90/?title=%F0%9F%8E%9A%EF%B8%8F%20|%20CSS%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/90/?title=%F0%9F%93%9F%20|%20BASH%2fBATCH%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/85/?title=%F0%9F%93%9F%20|%20VB6%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/70/?title=%F0%9F%94%AE%20|%20PERL%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/70/?title=%F0%9F%90%8D%20|%20PYTHON%20&width=300&color=ff0000">
 - <img src="https://progress-bar.dev/40/?title=%F0%9F%92%89%20|%20JAVASCRIPT%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/35/?title=%F0%9F%94%AE%20|%20PERL%20&width=300&color=ff0000">
-- <img src="https://progress-bar.dev/5/?title=%F0%9F%94%AE%20|%20C#%20&width=300&color=ff0000">
+- <img src="https://progress-bar.dev/10/?title=%F0%9F%94%AE%20|%20C#%20&width=300&color=ff0000">
 
 # 🤙 | Contact
 <details><summary>DISCORD</summary><a href="https://discord.com/users/847117740951076874">Blxxded#0303</a></details>
